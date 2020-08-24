@@ -102,7 +102,7 @@ ip_address|客户端请求sdk服务器的ip地址
 ----|----|----
 main.go|项目入口，静态资源、中间件、路由设置等|
 geetest_controller.go|接口请求控制器，主要处理验证初始化和二次验证接口请求|controllers/
-geetest_config.go|配置id和key|controllers/
+geetest_config.go|配置参数|controllers/
 geetest_lib.go|核心sdk，处理各种业务|controllers/sdk/
 geetest_lib_result.go|核心sdk返回数据的包装对象|controllers/sdk/
 index.html|demo示例首页|static/
