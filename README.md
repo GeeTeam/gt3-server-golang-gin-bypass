@@ -111,7 +111,7 @@ go.mod|依赖管理配置文件|
 
 ### 3.4.5 运行demo
 ```
-cd gt3-server-golang-gin-sdk
+cd gt3-server-golang-gin-bypass
 sudo go run main.go
 ```
 在浏览器中访问`http://localhost:8000`即可看到demo界面。
