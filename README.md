@@ -69,7 +69,7 @@ redis数据库|3.0.6
 
 ### 3.4.1 下载demo
 ```
-git clone git@github.com:GeeTeam/gt3-server-golang-gin-bypass.git 
+git clone https://github.com/GeeTeam/gt3-server-golang-gin-bypass.git
 ```
 
 ### 3.4.2 修改项目配置，修改参数
